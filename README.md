@@ -1,4 +1,4 @@
-# Bootx
+# Bacon
 
 ## Description
 inspired from elequent javascript egg programing languge bacon is A simple interpreted programing lanuage with simpleand accessible syntax that supports variables,arithmetic operations, loops, conditionals, andfunctions. built using tokenization (lexing),parsing, and evaluation.  
